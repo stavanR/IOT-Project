@@ -17,6 +17,6 @@ in code: publish data in given range
 publish data for atleast 10 times. 
 
 
-Output: 
+**Output:** 
 ![image](https://user-images.githubusercontent.com/49331673/115655762-91479c80-a351-11eb-9c1b-0ceec0dc40fa.png)
 ![image](https://user-images.githubusercontent.com/49331673/115655793-a290a900-a351-11eb-8336-2c0754dcc5cf.png)
